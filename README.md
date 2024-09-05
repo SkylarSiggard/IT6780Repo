@@ -1,10 +1,10 @@
-#Recipe Hub
+# Recipe Hub
 
 *Welcome to Recipe Hub, your go-to platform for discovering, sharing, and enjoying delicious recipes from around the world. Whether you're a seasoned chef or a home cook, Recipe Hub offers a space to explore new dishes, share your culinary creations, and connect with other food enthusiasts.*
 
 
 
-#Features
+# Features
 
    - **User Registration and Login**: Create an account to access personalized features.
    - **Recipe Submission**: Share your favorite recipes with the community.
@@ -15,7 +15,7 @@
 
 
 
-#Installation
+# Installation
 
 To run this project locally:
 
@@ -80,6 +80,5 @@ npm start
    - Thanks to the amazing contributor who made this project possible, myself, Skylar Siggard.
    - Inspiration from various recipe websites and cooking blogs.
    - Special thanks to the open-source community for providing great tools and libraries.
-   - This project is designed and developed for my IT 6780 Course at Utah Valley University. 
+   - This project is designed and developed for my IT 6780 Course at Utah Valley University.
    - The Professor for this course is Dr. Kodey S. Crandall.
-
