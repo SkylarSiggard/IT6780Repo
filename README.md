@@ -22,7 +22,7 @@ To run this project locally:
    1. Clone the repository:
 
 '''      
-git clone https://github.com/yourusername/recipe-hub.git
+git clone https://github.com/skylarsiggard/recipe-hub.git
 '''
    2. Navigate to the project directory:
 
