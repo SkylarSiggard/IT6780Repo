@@ -20,18 +20,26 @@
 To run this project locally:
 
    1. Clone the repository:
-'''git clone https://github.com/skylarsiggard/recipe-hub.git'''
+```bash
+git clone https://github.com/skylarsiggard/recipe-hub.git
+```
 
-   2. Navigate to the project directory:
-'''cd recipe-hub'''
+   3. Navigate to the project directory:
+```bash
+cd recipe-hub
+```
 
-   4. Install dependencies:
-'''npm install'''
+   5. Install dependencies:
+```bash
+npm install
+```
 
    4. Start the development server:
-'''npm start'''
+```bash
+npm start
+```
 
-   5. The application will be running on `http://localhost:3000`.
+   6. The application will be running on `http://localhost:3000`.
 
 
 
