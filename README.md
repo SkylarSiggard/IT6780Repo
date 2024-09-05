@@ -21,12 +21,12 @@ To run this project locally:
 
    1. Clone the repository:
 ```bash
-git clone https://github.com/skylarsiggard/recipe-hub.git
+git clone https://github.com/skylarsiggard/IT6780Repo.git
 ```
 
    3. Navigate to the project directory:
 ```bash
-cd recipe-hub
+cd IT6780Repo
 ```
 
    5. Install dependencies:
@@ -36,7 +36,7 @@ npm install
 
    4. Start the development server:
 ```bash
-npm start
+next dev
 ```
 
    6. The application will be running on `http://localhost:3000`.
